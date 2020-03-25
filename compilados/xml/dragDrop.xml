@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<juego>
+	<fases>
+		<fase id="0">
+			<enunciado><![CDATA[Asocia cada imagen]]></enunciado>
+			<pregunta id="0"><![CDATA[akin]]></pregunta>
+			<respuesta id="0"><![CDATA[swfs/hormiga.swf]]></respuesta>
+			<pregunta id="1"><![CDATA[Atol']]></pregunta>
+			<respuesta id="1"><![CDATA[swfs/gallina.swf]]></respuesta>
+			<pregunta id="2"><![CDATA[ll'i]]></pregunta>
+			<respuesta id="2"><![CDATA[swfs/pajaro.swf]]></respuesta>
+		</fase>
+		<fase id="1">
+			<enunciado><![CDATA[Asocia cada imagen]]></enunciado>
+			<pregunta id="0"><![CDATA[intak]]></pregunta>
+			<respuesta id="0"><![CDATA[swfs/plato.swf]]></respuesta>
+			<pregunta id="1"><![CDATA[kamil]]></pregunta>
+			<respuesta id="1"><![CDATA[swfs/dedo.swf]]></respuesta>
+			<pregunta id="2"><![CDATA[kil'i]]></pregunta>
+			<respuesta id="2"><![CDATA[swfs/cuchara.swf]]></respuesta>
+		</fase>
+		<fase id="2">
+			<enunciado><![CDATA[Asocia cada imagen]]></enunciado>
+			<pregunta id="0"><![CDATA[kalunc'i]]></pregunta>
+			<respuesta id="0"><![CDATA[swfs/lagartija.swf]]></respuesta>
+			<pregunta id="1"><![CDATA[kel iskitik]]></pregunta>
+			<respuesta id="1"><![CDATA[swfs/zapato.swf]]></respuesta>
+			<pregunta id="2"><![CDATA[kis]]></pregunta>
+			<respuesta id="2"><![CDATA[swfs/olla.swf]]></respuesta>
+		</fase>
+	</fases>
+
+
+	<literales>
+		<literal id="texto_enunciado">
+			<![CDATA[En este juego hay que arrastrar el dibujo hasta el texto equivalente]]>
+		</literal>
+		<literal id="texto_descripcion">
+			<![CDATA[Arrastra las imagenes sobre las respuestas que creas correctas y comprueba al final tus resultados]]>
+		</literal>
+	</literales>
+</juego>

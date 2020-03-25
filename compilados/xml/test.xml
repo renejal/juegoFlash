@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<juego>
+	<fases>
+		<fase id="0" OK="0">
+			<enunciado><![CDATA[muskay]]></enunciado>
+			<respuesta idR="0"><![CDATA[papá]]></respuesta>
+			<respuesta idR="1"><![CDATA[mamá]]></respuesta>
+			<respuesta idR="2"><![CDATA[papa]]></respuesta>
+			<respuesta idR="3"><![CDATA[perro]]></respuesta>
+		</fase>
+		<fase id="0" OK="1">
+			<enunciado><![CDATA[jauto]]></enunciado>
+			<respuesta idR="0"><![CDATA[papá]]></respuesta>
+			<respuesta idR="1"><![CDATA[popayán]]></respuesta>
+			<respuesta idR="2"><![CDATA[perro]]></respuesta>
+			<respuesta idR="3"><![CDATA[piendamo]]></respuesta>
+		</fase>
+		<fase id="0" OK="2">
+			<enunciado><![CDATA[is'uk]]></enunciado>
+			<respuesta idR="0"><![CDATA[hombre]]></respuesta>
+			<respuesta idR="1"><![CDATA[cuerpo]]></respuesta>
+			<respuesta idR="2"><![CDATA[mujer]]></respuesta>
+			<respuesta idR="3"><![CDATA[papa]]></respuesta>
+			</fase>
+		<fase id="0" OK="2">
+			<enunciado><![CDATA[jau]]></enunciado>
+			<respuesta idR="0"><![CDATA[hombre]]></respuesta>
+			<respuesta idR="1"><![CDATA[techo]]></respuesta>
+			<respuesta idR="2"><![CDATA[casa]]></respuesta>
+			<respuesta idR="3"><![CDATA[papa]]></respuesta>
+			</fase>
+		<fase id="0" OK="3">
+			<enunciado><![CDATA[Atol]]></enunciado>
+			<respuesta idR="0"><![CDATA[hombre]]></respuesta>
+			<respuesta idR="1"><![CDATA[cuerpo]]></respuesta>
+			<respuesta idR="2"><![CDATA[mujer]]></respuesta>
+			<respuesta idR="3"><![CDATA[gallina]]></respuesta>
+			</fase>
+	</fases>
+
+
+	<literales>
+		<literal id="texto_enunciado">
+			<![CDATA[En este juego aparecerán una serie de palabras en lenguaje misak.<br>Selecciona la traducion que creas correcta y comprueba al final tus resultados]]>
+		</literal>
+		<literal id="texto_descripcion">
+			<![CDATA[Seleccionea la traducciones que crear correcta para cada palabra. Tras la selección, cambiarás a una nueva pregunta. Cuando se terminen, el juego te mostrará tus resultados]]>
+		</literal>
+	</literales>
+</juego>

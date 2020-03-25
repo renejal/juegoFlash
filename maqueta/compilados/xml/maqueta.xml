@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<juego>
+	<fases>
+		<fase filas="2" columnas="3">
+			<ruta>imagenes/picoMoro.jpg</ruta>
+		</fase>
+		<fase filas="3" columnas="4">
+			<ruta>imagenes/cumbre.jpg</ruta>
+		</fase>
+		<fase filas="3" columnas="5">
+			<ruta>imagenes/colladoJermoso.jpg</ruta>
+		</fase>
+	</fases>
+
+
+	<literales>
+		<literal id="texto_enunciado">
+			<![CDATA[En este juego aparecerán una serie de preguntas con varias posibles respuestas.<br>Selecciona la que creas correcta y comprueba al final tus resultados]]>
+		</literal>
+		<literal id="texto_descripcion">
+			<![CDATA[Selecciona la respuesta que creas correcta para cada pregunta. Tras la selección, cambiarás a una nueva pregunta. Cuando se terminen, el juego te mostrará tus resultados]]>
+		</literal>
+	</literales>
+</juego>

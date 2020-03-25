@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<juego>
+	<fases>
+		<fase id="0">
+			<enunciado><![CDATA[¿Para qué sirve cada programa?]]></enunciado>
+			<pregunta id="0"><![CDATA[Retoque fotográfico]]></pregunta>
+			<respuesta id="0"><![CDATA[Photoshop]]></respuesta>
+			<pregunta id="1"><![CDATA[Diseño]]></pregunta>
+			<respuesta id="1"><![CDATA[Illustrator]]></respuesta>
+			<pregunta id="2"><![CDATA[Desarrollo web]]></pregunta>
+			<respuesta id="2"><![CDATA[Dreamweaver]]></respuesta>
+			<pregunta id="3"><![CDATA[Desarrollo interactivo]]></pregunta>
+			<respuesta id="3"><![CDATA[Flash]]></respuesta>
+		</fase>
+		<fase id="1">
+			<enunciado><![CDATA[¿Qué ruido hace da animal?]]></enunciado>
+			<pregunta id="0"><![CDATA[Rana]]></pregunta>
+			<respuesta id="0"><![CDATA[Croa]]></respuesta>
+			<pregunta id="1"><![CDATA[Gato]]></pregunta>
+			<respuesta id="1"><![CDATA[Maulla]]></respuesta>
+			<pregunta id="2"><![CDATA[Perro]]></pregunta>
+			<respuesta id="2"><![CDATA[Ladra]]></respuesta>
+		</fase>
+		<fase id="2">
+			<enunciado><![CDATA[¿En qué país nació el escritor?]]></enunciado>
+			<pregunta id="0"><![CDATA[Óscar Wilde]]></pregunta>
+			<respuesta id="0"><![CDATA[Irlanda]]></respuesta>
+			<pregunta id="1"><![CDATA[Thomas Mann]]></pregunta>
+			<respuesta id="1"><![CDATA[Alemania]]></respuesta>
+			<pregunta id="2"><![CDATA[Quevedo]]></pregunta>
+			<respuesta id="2"><![CDATA[España]]></respuesta>
+			<pregunta id="3"><![CDATA[Joseph Conrad]]></pregunta>
+			<respuesta id="3"><![CDATA[Ucrania]]></respuesta>
+		</fase>
+	</fases>
+
+
+	<literales>
+		<literal id="texto_enunciado">
+			<![CDATA[En este juego aparecerán una serie de preguntas y respuestas. Asocia haciendo click y arrastra las flechas desde las preguntas hacia las respuestas]]>
+		</literal>
+		<literal id="texto_descripcion">
+			<![CDATA[Haz click en una pregunta y arrastra hasta la respuesta que consideres correcta para ella. Puedes asociar sólo una pregunta a una respuesta. Para cambiar una asociación, simplemente arrastra una nueva flecha sobre la respuesta]]>
+		</literal>
+	</literales>
+</juego>
